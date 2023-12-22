@@ -1,8 +1,8 @@
 # Hi there 👋 <br> I'm Anas
 
-:school: I am an engineering student at the University of Calgary
-:desktop_computer: I am an avid coder, with experience in Python, Java, HTML and CSS
-:zap: Fun fact: My favourite sport is soccer!
+:school: I am an engineering student at the University of Calgary <br>
+:desktop_computer: I am an avid coder, with experience in Python, Java, HTML and CSS <br>
+:zap: Fun fact: My favourite sport is soccer! <br>
 
 :iphone: Contact me: <br>
  Linkedin: https://www.linkedin.com/in/anas-chowdhury/
