@@ -40,7 +40,7 @@
  
 <h3 align="center">Feel Free to Connect:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-chowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/anas-chowdhury" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/anas-chowdhury" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/anas-chowdhury" height="40" width="40" /></a>
 </p>
 
 <!--
