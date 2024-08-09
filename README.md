@@ -1,14 +1,16 @@
 <h1 align="center">Hi, I'm Anas👋</h1>
-<h3 align="center">Electrical and Computer Engineering Student at UCalgary</h3>
+<h3 align="center">Electrical and Computer Engineering Student</h3>
 <br>
 
 <h3 align="center">About Me:</h3>
+
+- 🏫 I am pursuing Electrical and Computer Engineering at the University of Calgary!
 
 - ⚙️ I’m currently creating a [USB-C Human Interface Device](https://github.com/AnasC22/USB_HID) from the ground up!
 
 - 🌱 I’m extremely passionate about **embedded systems and firmware development**, and am constantly trying to learn more in these fields!
 
-- 🤖 I’m currently a part of the **power division** of the **Schulich Space Rover Team**!
+- ⚡ I’m currently a part of the **power division** of the **Schulich Space Rover Team**!
 <br>
 
 #
