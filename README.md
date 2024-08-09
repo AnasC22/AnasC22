@@ -15,7 +15,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40 alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" height="40" width="40" alt="embeddedc logo" />
   <img width="20" />
