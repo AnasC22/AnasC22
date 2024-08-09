@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anas👋</h1>
-<h3 align="center">Electrical and Computer Engineering Student</h3>
+<h3 align="center">Electrical and Computer Engineering Student at UCalgary</h3>
 <br>
 
 <h3 align="center">About Me:</h3>
