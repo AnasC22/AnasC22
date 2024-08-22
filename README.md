@@ -6,7 +6,7 @@
 
 - 🏫 I am pursuing Electrical and Computer Engineering at the University of Calgary!
 
-- ⚙️ I’m currently creating a [USB-C Human Interface Device](https://github.com/AnasC22/USB_HID) from the ground up!
+- ⚙️ I’m currently creating a [Control Device](https://github.com/AnasC22/Control-Device-Firmware) from scratch!
 
 - 🌱 I’m extremely passionate about **embedded systems and firmware development**, and am constantly trying to learn more in these fields!
 
