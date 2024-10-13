@@ -10,7 +10,7 @@
 
 - 🌱 I’m extremely passionate about **embedded systems and firmware development**, and am constantly trying to learn more in these fields!
 
-- ⚡ I’m currently a part of the **power division** of the **Schulich Space Rover Team**!
+- 🏎️ I’m currently a part of the **power electronics division** of my school's Formula SAE Electric Team, **UCalgary Racing**!
 <br>
 
 #
